@@ -1,0 +1,133 @@
+.星黛露1 img{
+	float:left;
+	width:200px;
+	height:200px;
+}
+
+.title{
+	float:left;
+	padding-top:80px;
+	padding-left:80px;
+}
+
+.title span{
+	font-family: Impact, Haettenschweiler, ‘Arial Narrow Bold’, sans-serif;
+	font-size:70px;
+}
+
+.星黛露2 img{
+	float:left;
+	width:200px;
+	height:200px;
+	margin-left:60px;
+}
+
+.照片1{
+	margin-left:480px;
+	padding-top:220px;
+}
+
+.照片1 img{
+	width:150px;
+	height:150px;
+	border-radius:50%;
+	overflow:hidden;
+}
+
+.左{
+	float:left;
+	background-image:url(星黛露.jpg);
+	width:200px;
+	height:385px;
+	margin-top:50px;
+	margin-left:200px;
+	margin-bottom:30px;
+}
+
+.基础介绍{
+	height: 60px;
+    width: 100px;
+    border: 2px solid;
+    border-radius: 25px;
+	text-align:center;
+	margin-left:52px;
+	margin-top:20px;
+	background-color:#FFF0F5;
+}
+
+.基础介绍 p{
+	font-size:20px;
+}
+
+.文字1{
+	margin-top:190px;
+	margin-left:35px;
+	height: 100px;
+    width: 130px;
+    border: 2px dashed #EA7500;
+    border-radius: 25px;
+	text-align:center;
+}
+
+.文字1 a{
+	font-family:YouYuan;
+	font-size:22px;
+	color:black;
+}
+
+
+.中{
+	border: 2px dashed white;
+	float:left;
+	height:385px;
+	margin-top:50px;
+	margin-left:160px;
+	margin-bottom:30px;
+}
+
+.右{
+	float:left;
+	background-image:url(达菲.jpg);
+	width:200px;
+	height:385px;
+	margin-top:50px;
+	margin-left:165px;
+	margin-bottom:30px;
+}
+
+.我的爱好{
+	height: 60px;
+    width: 100px;
+    border: 2px solid;
+    border-radius: 25px;
+	text-align:center;
+	margin-left:52px;
+	margin-top:20px;
+	background-color:#FFF0F5;
+}
+
+.我的爱好 p{
+	font-size:20px;
+}
+
+.文字2{
+	margin-top:190px;
+	margin-left:35px;
+	height: 100px;
+    width: 130px;
+    border: 2px dashed #AAAAFF;
+    border-radius: 25px;
+	text-align:center;
+}
+
+.文字2 a{
+	font-family:YouYuan;
+	font-size:22px;
+	color:black;
+}
+
+.文字2 p{
+	font-family:YouYuan;
+	font-size:15px;
+	color:gray;
+}
